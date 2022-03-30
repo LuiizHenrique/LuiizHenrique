@@ -11,7 +11,7 @@
   
   <a href="https://github.com/LuiizHenrique" >
     <img src="https://github-readme-stats.vercel.app/api?username=LuiizHenrique&show_icons=true&theme=dark&hide_border=true&locale=pt-br&hide_title=true" alt="EstatGitHub" height="150">
-<!--    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiizHenrique&layout=compact&langs_count=20&theme=dark&hide_border=true&locale=pt-br" alt="LingUsadas" height="150">-->
+  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiizHenrique&layout=compact&langs_count=20&theme=dark&hide_border=true&locale=pt-br" alt="LingUsadas" height="150">-->
   </a>
 </div>
 
@@ -25,10 +25,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" height="46" width="65" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="80" align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="46" width="65" align="center">
- <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  alt="Postgrel" height="46" width="65" align="center"> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"  alt="Postgrel" height="46" width="65" align="center"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  alt="nodejs" height="46" width="65" align="center">
- <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="46" width="65" align="center">
--->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="46" width="65" align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  alt="angularjs " height="46" width="65" align="center" />
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="46" width="65" align="center" /> -->
   </a>
   
 </div>
