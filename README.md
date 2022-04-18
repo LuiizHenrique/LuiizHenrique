@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou procurando minha primeira oportunidade de trabalho na área de Tecnologia
-- 🌱 Atualmente estudando no bootcamp Generation Brasil  para formação como Dev Java Jr Full-Stack
+- 🌱 Atualmente formado no bootcamp Generation Brasil e formação como Dev Java Jr Full-Stack
 - 📫 Como chegar até mim: https://www.linkedin.com/in/luiz-fhenrique/ ou fhenrique95@gmail.com
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato divertido: eu amo videogames, amante de um bom livro com café ou chá e pai de três Gatos
