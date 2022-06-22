@@ -11,7 +11,7 @@
   
   <a href="https://github.com/LuiizHenrique" >
     <img src="https://github-readme-stats.vercel.app/api?username=LuiizHenrique&show_icons=true&theme=dark&hide_border=true&locale=pt-br&hide_title=true" alt="EstatGitHub" height="150">
-  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiizHenrique&layout=compact&langs_count=20&theme=dark&hide_border=true&locale=pt-br" alt="LingUsadas" height="150">-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuiizHenrique&layout=compact&langs_count=20&theme=dark&hide_border=true&locale=pt-br" alt="LingUsadas" height="150">
   </a>
 </div>
 
